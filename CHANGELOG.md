@@ -10,7 +10,7 @@
 - Feature: Add VAST support for AVOD [#2923](https://github.com/react-native-video/react-native-video/pull/2923)
 - Sample: Upgrade react-native version of basic sample [#2960](https://github.com/react-native-video/react-native-video/pull/2960)
 
-### Version 6.0.0-alpha.4
+### Version 6.0.0-alpha.4 
 
 - ensure src is always provided to native player even if it is invalid [#2857](https://github.com/react-native-video/react-native-video/pull/2857)
 - Sample: Add react-native-video controls support [#2852](https://github.com/react-native-video/react-native-video/pull/2852)
